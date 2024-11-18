@@ -1,0 +1,10 @@
+[package]
+name = "funsh"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+whoami = "1.2"
+rand = "0.8"
+dirs = "4.0"
+rustyline = "11"
